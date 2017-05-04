@@ -1,4 +1,5 @@
-2016-geocamp
+2017-geocamp
 ============
 
-Web del geocamp 2016
+Web del geocamp 2017 en Almería
+
