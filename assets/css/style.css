@@ -272,7 +272,7 @@ nav a:focus { color: #fff; }
 .about-container {
     margin: 60px auto 0 auto;
     padding-bottom: 60px;
-    color: #fff;
+    color: #FFF;
     text-align: center;
 }
 
@@ -732,4 +732,13 @@ footer {
 
 .footer-social {
 	text-align: right;
+}
+
+.overlay {
+    display: block;
+    background: rgba(0,0,0,0.3);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -9999;
 }
