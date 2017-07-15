@@ -108,14 +108,14 @@ nav a:focus { color: #fff; }
 
 .coming-soon h2 {
     color : #e8643e;
-    font-size: 46px;
-    font-weight: 100;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 .coming-soon h3 {
     color : #e8643e;
-    font-size: 21px;
-    font-weight: 100;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .coming-soon p {
