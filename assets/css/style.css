@@ -707,6 +707,21 @@ nav a:focus { color: #fff; }
 	vertical-align: middle;
 }
 
+/***** Tshits ******/
+
+.tshirt_label {
+    font-size: 1.3em;
+}
+
+span.important {
+    border-bottom: #e8643e 2px solid;
+}
+
+.buy_block {
+    position: relative;
+    left: -50px;
+}
+
 
 /***** Footer *****/
 
