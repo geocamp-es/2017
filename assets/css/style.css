@@ -514,7 +514,7 @@ nav a:focus { color: #fff; }
 }
 
 .logos-patrocinadores div{
-    background: rgb(229, 229, 229);
+    /* background: rgb(229, 229, 229); */
 }
 
 .logos-patrocinadores .helper {
